@@ -1,0 +1,24 @@
+/*COMBINATOR
+-Decendent
+article p
+- List
+span,mark
+- Next sibling
+h2 + p
+- Child
+  aside > ul
+*/
+
+
+
+.border{
+   background-image: url();
+}
+
+p{
+    /*border: 1px solid red;(as formataçãoes funcionam em sentido horário*/
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+}
+
+/* Altura no css */
